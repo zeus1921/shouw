@@ -44,7 +44,10 @@ http://mitvpro.net:25461/uSkYBTgqvjKw4eB/lXuoibJOzGVvGck/78636
 http://mitvpro.net:25461/uSkYBTgqvjKw4eB/lXuoibJOzGVvGck/78637
 #EXTINF:-1 tvg-ID="" tvg-name="PT: PORTO CANAL" tvg-logo="" group-title="EU PORTUGAL",PT: PORTO CANAL
 http://mitvpro.net:25461/uSkYBTgqvjKw4eB/lXuoibJOzGVvGck/78544
-
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="RMC SPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19C9_444_1_C00000_0_0_0.png" group-title="EU France HD",RMC SPORT 2 HD
+http://mitvpro.net:25461/uSkYBTgqvjKw4eB/lXuoibJOzGVvGck/49214
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name=" RMC SPORT 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19C9_444_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", RMC SPORT 2
+http://mitvpro.net:25461/uSkYBTgqvjKw4eB/lXuoibJOzGVvGck/42336
 #EXTINF:-1 tvg-ID="" tvg-name="RU: Match Futbol 1" tvg-logo="" group-title="EU RUSSIA",RU: Match Futbol 1
 http://mitvpro.net:25461/uSkYBTgqvjKw4eB/lXuoibJOzGVvGck/46219
 #EXTINF:-1 tvg-ID="" tvg-name="RU: Match Futbol 2" tvg-logo="" group-title="EU RUSSIA",RU: Match Futbol 2
