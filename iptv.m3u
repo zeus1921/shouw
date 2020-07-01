@@ -1,5 +1,3 @@
-#EXTINF:-1 tvg-ID="" tvg-name="twitch laski" tvg-logo="" group-title="twitch",twitch
-https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CugDSrZYwBAKEPJyhljVkCXEDyXDYmeHpllsHVjyW3zn1DhyxkDDHUX4CbUnQSDqU-JXJj5JKxNR647fF3HpoLhg8Uc8fB1ogeZg1tAlEItUlVGCl3cFoh_rKjHBPAjCECfeKb94siJU-fpi9WjRmcfihiQIlfQb0SPdqo9-gHDYG4_928k0OzIOtRIUg6TBvDDOWRxbFgAnsJBQkNxoVbGI-QVA3IfAF-rW5ISSSQpwSapJfrw-J-cPbCamM0rTTFme6CpMudlQPmIUF0Boe7dfUumL9exg7FP_NelQudJSF67G4Rap7g3NOF5DdQq0usljKyU6bnc6XiYVcv5ShvvF_E0LpE1w6-idGX74mC3TSqiorddJb4hG41iQ6ZchKyPdP65zITWGBFAa4weteDSD3oIdKnAeOeietrxASTM0a0H1r01fxRd8plAVC9O_78Tma5YAn3hpq_zennCXQvi8iJd1tVf28gbzfRpaF5GN6iwGhCccIQG8WeB5ZIhCazBfCwYSkTwQkzjvmGHKt6kdbVPLsLHiKy5EPsxjyzhNsVPUfCFSBrrbs4MITWxm5zr7b3GFeSbf5qDYN-yEQgd65FBDbjx7fcA9xRGqhvHy_jIaD_aTc79R_e3zTQVJ71irMnWlXBx93coSEOIQSZOeR8qCW09WDGZ7Y0gaDPPTY3p25L9GwwlIiA.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4K UHD" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 4K UHD
 http://mitvpro.net:25461/uSkYBTgqvjKw4eB/lXuoibJOzGVvGck/78573
 #EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="EU PORTUGAL",PT: SPORT TV 1 HD
@@ -46,10 +44,6 @@ http://mitvpro.net:25461/uSkYBTgqvjKw4eB/lXuoibJOzGVvGck/78636
 http://mitvpro.net:25461/uSkYBTgqvjKw4eB/lXuoibJOzGVvGck/78637
 #EXTINF:-1 tvg-ID="" tvg-name="PT: PORTO CANAL" tvg-logo="" group-title="EU PORTUGAL",PT: PORTO CANAL
 http://mitvpro.net:25461/uSkYBTgqvjKw4eB/lXuoibJOzGVvGck/78544
-#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="RMC SPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19C9_444_1_C00000_0_0_0.png" group-title="EU France HD",RMC SPORT 2 HD
-http://mitvpro.net:25461/uSkYBTgqvjKw4eB/lXuoibJOzGVvGck/49214
-#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name=" RMC SPORT 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19C9_444_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", RMC SPORT 2
-http://mitvpro.net:25461/uSkYBTgqvjKw4eB/lXuoibJOzGVvGck/42336
 #EXTINF:-1 tvg-ID="" tvg-name="RU: Match Futbol 1" tvg-logo="" group-title="EU RUSSIA",RU: Match Futbol 1
 http://mitvpro.net:25461/uSkYBTgqvjKw4eB/lXuoibJOzGVvGck/46219
 #EXTINF:-1 tvg-ID="" tvg-name="RU: Match Futbol 2" tvg-logo="" group-title="EU RUSSIA",RU: Match Futbol 2
